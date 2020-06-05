@@ -19,7 +19,7 @@ Thursday - 4
 Friday - 5
 Saturday - 6
 Sunday - 7</ul>
-<p><h3>Zone</h3>: This Column is for the zone number from which the traffic data is recorded.
+<p><h3>Zone:</h3> This Column is for the zone number from which the traffic data is recorded.
 Weather: The weather in this column is coded. This is based on the various standard
 weather conditions. The traffic varies based on the weather of the given zone. This
 includes aspects like humidity, mist, visibility, precipitation, etc.</p>
